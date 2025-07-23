@@ -1,12 +1,8 @@
 """
-Plagiarism Detector Lab 2
-------------------------
+Plagiarism Detector L
+
 Compares two essays for common words, word frequency, and plagiarism percentage.
 
-Author: [Your Name]
-Student ID: [Your Student ID]
-Date: [Submission Date]
-"""
 
 import string  # For removing punctuation
 import sys     # For system-level error handling
